@@ -13,7 +13,7 @@ useEffect(() => {
 const AppComponent = () => {
   return (
     <div >
-         Nuevo git  
+         Nuevo git   2
     </div>
   )
 }
